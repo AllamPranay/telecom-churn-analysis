@@ -1,4 +1,4 @@
-# Customer Churn & Retention Intelligence
+# Telecom Churn Driver Analysis
 
 **Role framing:** Data Analyst at a telecom company that is losing customers and has
 limited retention resources - the goal is not just to predict churn, but to tell the
